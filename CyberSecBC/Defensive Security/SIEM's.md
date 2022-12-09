@@ -84,7 +84,7 @@ Searching with Splunk
 				Returns data by date, date range, time, or time range. Results will not change even if more events occur.
 			3. All time
 				Returns all available data based on the search.
-	SPL
+	SPL - Like SQL
 		: Splunk processing language
 			_searching with key-value pairs, wildcards, Boolean Expressions._
 				Additionally regular Linux commands work with SPL as well such as,` | ; && head sort` etc.
