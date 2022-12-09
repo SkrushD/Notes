@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "840e7bf65d7aad28",
+    "type": "split",
+    "children": [
+      {
+        "id": "002d90cca6643b77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05cd97dc9aacbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offensive Security/Project 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386038716564d692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defensive Security/SIEM's.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7e8cf1d40c37e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b93ec7e5c930a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41c894c2eef5818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c77e9e5247ccdc2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"![[Pasted image 20221116170723.png]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7edab4ecfea52aea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de3f3f20de2ea5c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "10467c930617e23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d660dec0ef4ca794",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Defensive Security/SIEM's.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c93cb97f5b6cdb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Defensive Security/SIEM's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c6e3bbf204cdef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8ad98167dd8c735",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Defensive Security/SIEM's.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "386038716564d692",
+  "lastOpenFiles": [
+    "Offensive Security/Project 2.md",
+    "Offensive Security/Intro to Pentesting & OSINT.md",
+    "Offensive Security/Web Vulnerabilities and Hardening.md",
+    "Linux Specific/Linux Archiving and Logging Data.md",
+    "Defensive Security/SIEM's.md",
+    "Pentest Report Notes.md",
+    "Fundamentals Policy and Concepts/Cryptography.md",
+    "Linux Specific/Bash Scripting and Programming.md",
+    "Resource folder/Pentesting/Pasted image 20221116164146.png",
+    "Resource folder/Pentesting/Pasted image 20221121191430.png"
+  ]
+}
