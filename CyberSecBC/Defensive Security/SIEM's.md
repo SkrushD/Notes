@@ -51,3 +51,42 @@ Batch requests for jpg files from outside the US.
  
 ```
 
+#### Splunk Searches
+Splunk
+	: software tool that searches, analyzes, and monitors big data with an easy-to-use interface.
+		_it can capture large amounts of data, which can be used to create visualizations, reports, and alerts._
+	To flavor splunks base program with an organizations needs, you can add Splunk apps, add-ons, and suites.
+		Apps
+			have custom searches and features in their own interfaces.
+		Add-ons
+			provide additional functionality without their own interfaces.
+		Suites
+			collections of apps with a single focus, such as an industry or technology.
+		_these apps, add-ons and suites are categorized by technology, vendor and industry._
+Adding Data
+	Splunk Indexer
+		: receives incoming data and transforms teh incoming data into events. These events are added to repositories called indexes.
+	Search Head
+		: is Splunk's GUI that we use to conduct searches. It manages search requests to the indexer and provides the search results back to the user.
+	Methods to Add Data
+		1. Monitor
+			: monitors logs from a system, device, or application that it has direct access to.
+		2. Forward
+			: Install a program called a forwarder on the system from which logs are collected.
+		3. Upload
+			: Manually upload logs directly into your Splunk repository.
+Searching with Splunk
+	: allows users to query upoaded and monitored data.
+		types of searching
+			1. Real-time search
+				Returns a window of real-time data as it is happening and continues to update as the events occur.
+			2. Relative search
+				Returns data by date, date range, time, or time range. Results will not change even if more events occur.
+			3. All time
+				Returns all available data based on the search.
+	SPL
+		: Splunk processing language
+			_searching with key-value pairs, wildcards, Boolean Expressions._
+				Additionally regular Linux commands work with SPL as well such as,` | ; && head sort` etc.
+	Search Fields
+		: when files are uploaded and parsed, the data is separated into fields.
